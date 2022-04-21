@@ -1,5 +1,6 @@
 # Projet 6 d'openclassrooms : HotTakes
 Projet OpenClassrooms. L'objectif est de développer une API sécurisée pour une application d'avis gastronomiques.
+Le frontend était fourni, mon travail était de fournir un backend fonctionnel.
 
 Techno utilisée :
 
